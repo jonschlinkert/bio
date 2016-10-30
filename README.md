@@ -55,8 +55,6 @@ TODO
 **Honorable mention**
 
 - [How to Set Up Sublime Text for a Vastly Better Markdown Writing Experience](https://blog.mariusschulz.com/2014/12/16/how-to-set-up-sublime-text-for-a-vastly-better-markdown-writing-experience)
-- 
-
 
 ## Contact information
 
